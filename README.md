@@ -81,5 +81,23 @@ Write a C# program which asks the user for integers until a sum of 200 is reache
 ## Exercise 6_3
 Use the foreach statement to print out the character literals in the array “characters”. The output should be: Learn C#.
 
+## Exercise 7_2
+You are provided with a List of type string having the following names:
+Torvalds, Musk, Gates, Buffet, Dorsey.
+Modify the list so that the items are:
+Jobs, Musk, McAfee, Buffet, Wozniak.
+
+## Exercise 8_1
+Write a C# program which takes a file name as a command line argument and then prints the content of the file to the screen. Your program should check if a command line argument was provided and print “No filename provided!” if it does not exist. The program must also check that the provided file exists before reading it.
+
 ## Exercise 8_2
 Your task is to write a C# program which asks the user for a file name and content. Then the program creates the file with the user provided content.
+
+## Exercise 8_3
+Create a program which opens an existing file, prompts the user for content and appends the provided content to the file.
+
+## Exercise 8_4
+Create a program which reads the files in the current directory and prints them out one file name per line.
+
+## Exercise 9_1
+In this exercise your task is to define Movie class, its fields and the constructor. The class must be serializable. The class properties are Name, Length and Year and the constructor parameters are in the same order.
